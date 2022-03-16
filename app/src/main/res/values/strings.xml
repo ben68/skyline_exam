@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="appName">Top100 Songs</string>
+    <string name="hintTextNote">Write something...</string>
+</resources>
